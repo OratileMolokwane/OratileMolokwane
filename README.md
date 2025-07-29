@@ -1,6 +1,6 @@
 <!-- Greeting Section -->
 <h1 align="center">Hey there 👋, I'm Oratile Molokwane</h1>
-<h3 align="center">💻 Dull Stack Developer (but dangerously curious)</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 <!-- GIF -->
 <p align="center">
